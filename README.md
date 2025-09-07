@@ -1,5 +1,5 @@
-[@Javier.19.html](https://github.com/user-attachments/files/22192725/%40Javier.19.html)
-<!DOCTYPE html>
+[@Javier.19.](https://github.com/user-attachments/files/22192725/%40Javier.19.html)
+<!html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
